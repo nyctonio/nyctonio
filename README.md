@@ -12,6 +12,6 @@
 - 💬 Ask me about WebDev,C++,DataStructures,Python
 - 📫 How to reach me: twitter.com/nyctonio
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 
+- ⚡ Fun fact: I love to cook and eat
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nyctonio)
