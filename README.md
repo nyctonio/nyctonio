@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Next.JS
 - 🌱 I’m currently learning Three.JS
 - 👯 I’m looking to collaborate on Blender
-- 💬 Ask me about WebDev,C++,Python
+- 💬 Ask me about WebDev,C++,DataStructures,Python
 - 📫 How to reach me: twitter.com/nyctonio
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 
