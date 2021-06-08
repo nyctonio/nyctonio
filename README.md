@@ -1,16 +1,17 @@
-### Hi there 👋
+[![linkedin badge](https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/nyctonio)
+[![twitter badge](https://img.shields.io/badge/@nyctonio-30302f?style=flat&logo=twitter)](https://twitter.com/nyctonio)
+[![medium badge](https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=medium)](https://medium.com/@nyctonio)
 
-<!--
-**nyctonio/nyctonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 
 
-Here are some ideas to get you started:
+## I am a Fast Learner, FullStack Developer, Competetive Programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Next.JS
+- 🌱 I’m currently learning Three.JS
+- 👯 I’m looking to collaborate on Blender
+- 💬 Ask me about WebDev,C++,Python
+- 📫 How to reach me: twitter.com/nyctonio
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=nyctonio)
