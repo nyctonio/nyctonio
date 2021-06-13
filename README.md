@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on Next.JS
 - 🌱 I’m currently learning Three.JS
-- 👯 I’m looking to collaborate on Blender
 - 💬 Ask me about WebDev,C++,DataStructures,Python
 - 📫 How to reach me: <a href="https://twitter.com/nyctonio">twitter.com/nyctonio</a>
 - 😄 Pronouns: He/Him
