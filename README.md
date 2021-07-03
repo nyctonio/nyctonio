@@ -18,6 +18,9 @@
 
 ## I am a Fast Learner, FullStack Developer, Competetive Programmer -->
 
+<img align="right" src="./codingcat.gif"/>
+
+## 🙋‍♂️ About Me
 - 🔭 I’m currently working on Next.JS
 - 🌱 I’m currently learning Three.JS
 - 💬 Ask me about WebDev,C++,DataStructures,Python
@@ -25,5 +28,12 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to cook and eat
 
+
+
+
+
+  
+
+  
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=nyctonio)
  -->
