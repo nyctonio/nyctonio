@@ -44,7 +44,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyctonio&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Ritesh Kumars :: Top Langs" />
 </p>
 
-  
+ 
+![](https://activity-graph.herokuapp.com/graph?username=nyctonio&theme=github)
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/nyctonio/nyctonio/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
   
   
