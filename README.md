@@ -27,7 +27,7 @@
 - 💬 Ask me about WebDev,C++,DataStructures,Python,Design
 - 📫 How to reach me: <a href="https://twitter.com/nyctonio">twitter.com/nyctonio</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to cook and eat
+- ⚡ Fun fact: I love to cook and eat.
 
 <br/>
 
