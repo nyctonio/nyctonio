@@ -18,7 +18,6 @@
 <!-- ## Hi there 👋 
 
 ## I am a Fast Learner, FullStack Developer, Competetive Programmer -->
-
 <img align="right" src="./codingcat.gif"/>
 
 ## 🙋‍♂️ About Me
