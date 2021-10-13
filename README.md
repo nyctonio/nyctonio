@@ -2,7 +2,6 @@
   
 <!-- <img href="https://www.linkedin.com/in/nyctonio" src="https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=linkedin"/> -->
   
-  
 [![linkedin badge](https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/nyctonio)
 [![twitter badge](https://img.shields.io/badge/@nyctonio-30302f?style=flat&logo=twitter)](https://twitter.com/nyctonio)
 [![medium badge](https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=medium)](https://medium.com/@nyctonio)
