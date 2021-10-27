@@ -11,7 +11,6 @@
 <h1>Hey there, I'm Ritesh Kumar <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Competetive+Programmer;Freelancer;CSE+Sophomore)
-
   
 </div>
   
