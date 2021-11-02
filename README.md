@@ -54,5 +54,5 @@
  -->
  
  <a href="https://open.spotify.com/user/31j3he3stsqzsbk47sqq6vuonxvu"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j3he3stsqzsbk47sqq6vuonxvu&count=1" alt="Spotify"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j3he3stsqzsbk47sqq6vuonxvu&count=1&width=1000" alt="Spotify"/>
  </a>
