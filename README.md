@@ -52,3 +52,7 @@
 </p>
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=nyctonio)
  -->
+ 
+ <a href="https://open.spotify.com/user/31j3he3stsqzsbk47sqq6vuonxvu"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j3he3stsqzsbk47sqq6vuonxvu&count=1" alt="Spotify"/>
+ </a>
