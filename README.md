@@ -22,7 +22,7 @@
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on Next.JS
 - 🌱 I’m currently learning Three.JS
-- 💬 Ask me about WebDev,C++,DataStructures,Python,Design
+- 💬 Ask me about WebDev,C++,DataStructures,Python,Cloud,Linux
 - 📫 How to reach me: <a href="https://twitter.com/nyctonio">twitter.com/nyctonio</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to cook and eat.
