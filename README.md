@@ -12,9 +12,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Competetive+Programmer;Freelancer;CSE+Sophomore)
   
 </div>
-<!-- ## Hi there 👋 
 
-## I am a Fast Learner, FullStack Developer, Competetive Programmer -->
 <img align="right" src="./codingcat.gif"/>
 
 ## 🙋‍♂️ About Me
