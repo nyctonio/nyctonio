@@ -13,7 +13,6 @@
   
 </div>
 
-
 <img align="right" src="./codingcat.gif"/>
 
 ## 🙋‍♂️ About Me
