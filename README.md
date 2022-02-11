@@ -18,7 +18,7 @@
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on Next.JS
-- 🌱 I’m currently learning Three.JS
+- 🌱 I’m currently learning Three.JS and DSA
 - 💬 Ask me about WebDev,C++,DataStructures,Python,Cloud,Linux
 - 📫 How to reach me: <a href="https://twitter.com/nyctonio">twitter.com/nyctonio</a>
 - 😄 Pronouns: He/Him
