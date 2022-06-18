@@ -38,6 +38,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyctonio&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Ritesh Kumars :: Profile Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyctonio&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Ritesh Kumars :: Top Langs" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nyctonio&theme=tokyonight" width="700">
 </p>
 
  
@@ -49,6 +50,8 @@
 </p>
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=nyctonio)
  -->
+ 
+ 
  
 
  <a href="https://open.spotify.com/user/31j3he3stsqzsbk47sqq6vuonxvu"/>
