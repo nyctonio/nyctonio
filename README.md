@@ -83,8 +83,8 @@ src="https://img.shields.io/twitch/status/nyctonio?logo=twitchsx&style=for-the-b
 [![Nextjs + Tailwind Parallax Effect using React Scroll Parallax](https://ytcards.demolab.com/?id=vPhdhA3lZVs&title=Nextjs+%2B+Tailwind+Parallax+Effect+using+React+Scroll+Parallax&lang=en&timestamp=1654638618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Nextjs + Tailwind Parallax Effect using React Scroll Parallax")](https://www.youtube.com/watch?v=vPhdhA3lZVs)
 <!-- END YOUTUBE-CARDS -->
 
-<h3 align="center">My GitHub Stats 📊 </h3>
-<p align="center">
+<h3 align="center">📊 My GitHub Stats</h3>
+<!-- <p align="center"> -->
  
 <!--START_SECTION:waka-->
 
@@ -94,11 +94,14 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+<h3 align="center">📕 Blog posts</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyctonio&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Ritesh Kumars :: Profile Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyctonio&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Ritesh Kumars :: Top Langs" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=nyctonio&theme=tokyonight" width="700"> -->
-</p>
+<!-- </p> -->
  
 ![](https://activity-graph.herokuapp.com/graph?username=nyctonio&theme=github)
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
