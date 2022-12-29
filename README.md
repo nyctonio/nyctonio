@@ -100,3 +100,8 @@ src="https://img.shields.io/twitch/status/nyctonio?logo=twitchsx&style=for-the-b
  <a href="https://open.spotify.com/user/31j3he3stsqzsbk47sqq6vuonxvu"/>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j3he3stsqzsbk47sqq6vuonxvu&count=1&width=1000" alt="Spotify"/>
  </a>
+
+</br>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nyctonio&theme=nord&no-frame=true&margin-w=10&column=7" />
+</div>
