@@ -87,6 +87,12 @@ src="https://img.shields.io/twitch/status/nyctonio?logo=twitchsx&style=for-the-b
 <p align="center">
  
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   2 hrs 29 mins   █████████████████████████   99.99 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyctonio&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Ritesh Kumars :: Profile Stats" />
