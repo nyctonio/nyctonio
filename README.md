@@ -89,7 +89,7 @@ src="https://img.shields.io/twitch/status/nyctonio?logo=twitchsx&style=for-the-b
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   18 hrs 7 mins   ████████████████████▒░░░░   81.60 %
+TypeScript   18 hrs 7 mins   ████████████████████▒░░░░   81.59 %
 Bash         1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
 Docker       45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 Go           34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
