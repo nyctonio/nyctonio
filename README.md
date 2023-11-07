@@ -100,11 +100,11 @@ Bash         34 mins         █░░░░░░░░░░░░░░░░
 <h3 align="center">📕 Blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Power of Consistent Hashing: The Key to Scalable 🚀, Fault-Tolerant Distributed Systems 💻](https://dev.to/nyctonio/unlocking-the-power-of-consistent-hashing-the-key-to-scalable-fault-tolerant-distributed-systems-219c)
 - [What is Alternative Data - Complete Guide 📊](https://dev.to/nyctonio/what-is-alternative-data-complete-guide-2ln7)
 - [How To Make A Typescript + NodeJS Express Project with eslint, EJS and Restart On Typescript Server Changes](https://dev.to/nyctonio/how-to-make-a-typescript-nodejs-express-project-with-eslint-ejs-and-nodemon-hot-reload-4e0b)
 - [Stateful vs Stateless Architecture](https://dev.to/nyctonio/stateful-vs-stateless-architecture-1ao2)
 - [Parallax In Next.js using React-Scroll-Parallax 😉](https://dev.to/nyctonio/parallax-in-nextjs-using-react-scroll-parallax-2110)
-- [All React Hooks and Concepts In A Single Post!! 🤗](https://dev.to/nyctonio/all-react-hooks-and-concepts-in-a-single-post-1daf)
 <!-- BLOG-POST-LIST:END -->
   
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyctonio&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Ritesh Kumars :: Profile Stats" />
