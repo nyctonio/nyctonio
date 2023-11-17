@@ -89,11 +89,11 @@ src="https://img.shields.io/twitch/status/nyctonio?logo=twitchsx&style=for-the-b
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   10 hrs 3 mins   ███████████████▒░░░░░░░░░   61.78 %
-JSON         2 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
-Bash         1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-Astro        1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-JavaScript   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+TypeScript   7 hrs 21 mins   ███████████████▓░░░░░░░░░   62.05 %
+Astro        2 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
+HTML         52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Bash         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+JSON         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
 ```
 
 <!--END_SECTION:waka-->
