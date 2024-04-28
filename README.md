@@ -79,7 +79,9 @@ src="https://img.shields.io/twitch/status/nyctonio?logo=twitchsx&style=for-the-b
 <br>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Next.js + Spline 3D Hero Section](https://ytcards.demolab.com/?id=fRkSbz0avcQ&title=Next.js+%2B+Spline+3D+Hero+Section&lang=en&timestamp=1713469997&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Next.js + Spline 3D Hero Section")](https://www.youtube.com/watch?v=fRkSbz0avcQ)
+[![Stateful vs Stateless Architecture: Let's Discuss 😌](https://ytcards.demolab.com/?id=3XQnymcbjds&title=Stateful+vs+Stateless+Architecture%3A+Let%27s+Discuss+%F0%9F%98%8C&lang=en&timestamp=1655671795&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stateful vs Stateless Architecture: Let's Discuss 😌")](https://www.youtube.com/watch?v=3XQnymcbjds)
+[![Nextjs + Tailwind Parallax Effect using React Scroll Parallax](https://ytcards.demolab.com/?id=vPhdhA3lZVs&title=Nextjs+%2B+Tailwind+Parallax+Effect+using+React+Scroll+Parallax&lang=en&timestamp=1654638618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Nextjs + Tailwind Parallax Effect using React Scroll Parallax")](https://www.youtube.com/watch?v=vPhdhA3lZVs)
 <!-- END YOUTUBE-CARDS -->
 
 <h3 align="center">📊 My GitHub Stats</h3>
