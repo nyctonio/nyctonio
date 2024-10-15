@@ -97,11 +97,7 @@ No activity tracked
 <h3 align="center">📕 Blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Next js + 3D elements with spline](https://dev.to/nyctonio/next-js-3d-elements-with-spline-3m84)
-- [Lets Explore LSM Tree](https://dev.to/nyctonio/lets-explore-lsm-tree-o8b)
-- [Understanding Skip Lists](https://dev.to/nyctonio/understanding-skip-lists-4i8b)
-- [Unlocking the Power of Consistent Hashing: The Key to Scalable 🚀, Fault-Tolerant Distributed Systems 💻](https://dev.to/nyctonio/unlocking-the-power-of-consistent-hashing-the-key-to-scalable-fault-tolerant-distributed-systems-219c)
-- [What is Alternative Data - Complete Guide 📊](https://dev.to/nyctonio/what-is-alternative-data-complete-guide-2ln7)
+- [Hackon 2.0- Best Voice hack](https://nyctonio.medium.com/hackon-2-0-best-voice-hack-143b2b6c6fc0?source=rss-6ea1025ca50c------2)
 <!-- BLOG-POST-LIST:END -->
   
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyctonio&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Ritesh Kumars :: Profile Stats" />
