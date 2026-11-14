@@ -9,7 +9,7 @@
 
 <h1>Hey there, I'm Ritesh Kumar <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Competetive+Programmer;Freelancer;Almost+Graduate)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Competetive+Programmer;Freelancer;Almost+Graduate)
   
 </div>
 
@@ -63,7 +63,7 @@ src="https://img.shields.io/twitch/status/nyctonio?logo=twitchsx&style=for-the-b
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
@@ -85,6 +85,11 @@ src="https://img.shields.io/twitch/status/nyctonio?logo=twitchsx&style=for-the-b
 <!-- END YOUTUBE-CARDS -->
 
 <h3 align="center">📊 My GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nyctonio&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
 <!-- <p align="center"> -->
  
 <!--START_SECTION:waka-->
@@ -109,11 +114,18 @@ No activity tracked
 <img src="https://github-readme-streak-stats.herokuapp.com?user=nyctonio&theme=tokyonight" width="700"> -->
 <!-- </p> -->
  
-![](https://activity-graph.herokuapp.com/graph?username=nyctonio&theme=github)
+<h3 align="center">⚡ Recent Activity</h3>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
-  <img src="https://github.com/nyctonio/nyctonio/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nyctonio/nyctonio/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nyctonio/nyctonio/output/github-snake.svg" />
+    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/nyctonio/nyctonio/output/github-snake.svg" />
+  </picture>
 </p>
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=nyctonio)
  -->
@@ -124,5 +136,5 @@ No activity tracked
 
 </br>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nyctonio&theme=nord&no-frame=true&margin-w=10&column=7" />
+<img src="https://github-trophies.vercel.app/?username=nyctonio&theme=nord&no-frame=true&margin-w=10&column=7" />
 </div>
