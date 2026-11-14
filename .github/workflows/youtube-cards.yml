@@ -10,7 +10,14 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    env:
+      # YouTube RSS feeds are gone; the action needs a Data API key
+      HAS_KEY: ${{ secrets.YOUTUBE_API_KEY != '' }}
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - if: env.HAS_KEY != 'true'
+        run: echo "YOUTUBE_API_KEY secret not set, skipping"
+      - if: env.HAS_KEY == 'true'
+        uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCnfInibS24FiHtTIPaYcrYw
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
