@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Pull in dev.to and Medium posts
+      - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/nyctonio,https://medium.com/@nyctonio/feed/"
+          feed_list: "https://dev.to/feed/nyctonio"
