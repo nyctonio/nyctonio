@@ -114,11 +114,6 @@ No activity tracked
 <img src="https://github-readme-streak-stats.herokuapp.com?user=nyctonio&theme=tokyonight" width="700"> -->
 <!-- </p> -->
  
-<h3 align="center">⚡ Recent Activity</h3>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
   <picture>
